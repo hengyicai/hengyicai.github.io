@@ -1,10 +1,10 @@
 ---
 title: "Learning from Easy to Complex: Adaptive Multi-curricula Learning for Neural Dialogue Generation"
 collection: publications
-permalink: /publication/2019-11-11-Multi-Curriculum-Dialog-Learning
+permalink: /publication/2020-02-07-Multi-Curriculum-Dialog-Learning
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2019-11-11
-venue: 'AAAI 2020'
+date: 2020-02-07
+venue: 'AAAI'
 paperurl: 'https://arxiv.org/abs/2003.00639'
 citation: 'Hengyi Cai, Hongshen Chen, Cheng Zhang, Yonghao Song, Xiaofang Zhao, Yangxi Li, Dongsheng Duan and Dawei Yin. Learning from Easy to Complex: Adaptive Multi-curricula Learning for Neural Dialogue Generation. In Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI 2020), New York, USA, Feb. 2020.'
 ---
