@@ -19,3 +19,4 @@ citation: 'Hengyi Cai, Hongshen Chen, Cheng Zhang, Yonghao Song, Xiaofang Zhao, 
 <!-- [Download paper here](https://arxiv.org/abs/2003.00639) -->
 
 Recommended citation: Hengyi Cai, Hongshen Chen, Cheng Zhang, Yonghao Song, Xiaofang Zhao, Yangxi Li, Dongsheng Duan and Dawei Yin.Learning from Easy to Complex: Adaptive Multi-curricula Learning for Neural Dialogue Generation. In Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI 2020), New York, USA.
+
