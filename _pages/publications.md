@@ -9,8 +9,19 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
+
+[Adaptive Parameterization for Neural Dialogue Generation](https://www.aclweb.org/anthology/D19-1188/)  
+**Hengyi Cai**, Hongshen Chen, Cheng Zhang, Yonghao Song, Xiaofang Zhao, Dawei Yin.  
+Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP 2019)  
+
+---
+
+[Learning from Easy to Complex: Adaptive Multi-curricula Learning for Neural Dialogue Generation](https://arxiv.org/abs/2003.00639)  
+**Hengyi Cai**, Hongshen Chen, Cheng Zhang, Yonghao Song, Xiaofang Zhao, Yangxi Li, Dongsheng Duan, Dawei Yin.  
+Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI 2020)  
+
