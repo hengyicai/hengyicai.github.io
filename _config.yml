@@ -88,7 +88,7 @@ author:
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Kz-r34UAAAAJ"
   email            : "caihengyi@ict.ac.cn"
-  researchgate     : "https://www.researchgate.net/profile/Hengyi_Cai" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : #"https://www.researchgate.net/profile/Hengyi_Cai" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
