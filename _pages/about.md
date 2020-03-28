@@ -13,7 +13,7 @@ My name is Hengyi Cai (蔡恒毅), a Ph.D. student (expected to receive my Ph.D.
 
 ## News
 
--   2020-03-27 - Hengyi was invited to serve as Program Committee at EMNLP 2020.
--   2019-12-09 - Hengyi was invited to serve as internal reviewer at ACL 2020.
--   2019-11-11 - 1 paper accepted to AAAI 2020.
--   2019-08-13 - 1 paper accepted to EMNLP 2019.
+-   Mar. 27, 2020: Hengyi was invited to serve as Program Committee at EMNLP 2020.
+-   Dec. 09, 2019: Hengyi was invited to serve as internal reviewer at ACL 2020.
+-   Nov. 11, 2019: 1 paper accepted to AAAI 2020.
+-   Aug. 13, 2019: 1 paper accepted to EMNLP 2019.
