@@ -15,6 +15,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+Data Manipulation: Towards Effective Instance Learning for Neural Dialogue Generation via Augmentation and Weighting
+**Hengyi Cai**, Hongshen Chen, Yonghao Song, Cheng Zhang, Xiaofang Zhao, Dawei Yin.  
+*Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020)*  
+
+---
+
 [Learning from Easy to Complex: Adaptive Multi-curricula Learning for Neural Dialogue Generation](https://arxiv.org/abs/2003.00639)  
 **Hengyi Cai**, Hongshen Chen, Cheng Zhang, Yonghao Song, Xiaofang Zhao, Yangxi Li, Dongsheng Duan, Dawei Yin.  
 *Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI 2020)*  
@@ -25,6 +31,4 @@ author_profile: true
 [Adaptive Parameterization for Neural Dialogue Generation](https://www.aclweb.org/anthology/D19-1188/)  
 **Hengyi Cai**, Hongshen Chen, Cheng Zhang, Yonghao Song, Xiaofang Zhao, Dawei Yin.  
 *Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP 2019)*  
-[PDF](https://www.aclweb.org/anthology/D19-1188.pdf)&nbsp;&nbsp;  [Code](https://github.com/hengyicai/AdaND)  
-
-
+[PDF](https://www.aclweb.org/anthology/D19-1188.pdf)&nbsp;&nbsp;  [Code](https://github.com/hengyicai/AdaND)
