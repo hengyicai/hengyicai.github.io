@@ -15,9 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-Data Manipulation: Towards Effective Instance Learning for Neural Dialogue Generation via Augmentation and Weighting
+<!-- Data Manipulation: Towards Effective Instance Learning for Neural Dialogue Generation via Augmentation and Weighting
 **Hengyi Cai**, Hongshen Chen, Yonghao Song, Cheng Zhang, Xiaofang Zhao, Dawei Yin.  
-*Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020)*  
+*Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020)*   -->
 
 ---
 
