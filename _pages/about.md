@@ -14,11 +14,11 @@ Email: caihengyi AT ict.ac.cn
 
 ## News
 
-- Apr. 04, 2020  1 paper accepted to ACL 2020.
-- Mar. 27, 2020  Hengyi was invited to serve as Program Committee at EMNLP 2020.  
-- Dec. 09, 2019  Hengyi was invited to serve as Program Committee at ACL 2020.  
-- Nov. 11, 2019  1 paper accepted to AAAI 2020.  
-- Aug. 13, 2019  1 paper accepted to EMNLP 2019.  
+- 04/2020  1 paper accepted to ACL 2020.
+- 03/2020  Hengyi was invited to serve as Program Committee at EMNLP 2020.  
+- 12/2019  Hengyi was invited to serve as Program Committee at ACL 2020.  
+- 11/2019  1 paper accepted to AAAI 2020.  
+- 08/2019  1 paper accepted to EMNLP 2019.  
 
 ## Professional Services
 PC Member: ACL (2020), EMNLP (2020)
