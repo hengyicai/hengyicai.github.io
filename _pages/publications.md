@@ -15,10 +15,15 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+<span style="color:red;">[NEW] </span>Exemplar Guided Neural Dialogue Generation.   
+**Hengyi Cai**, Hongshen Chen, Yonghao Song, Xiaofang Zhao, Dawei Yin.  
+*To appear in Proceedings of the International Joint Conference on Artificial Intelligence (**IJCAI2020**)*  
+
+---
+
 <span style="color:red;">[NEW] </span>[Data Manipulation: Towards Effective Instance Learning for Neural Dialogue Generation via Learning to Augment and Reweight](https://arxiv.org/abs/2004.02594)  
 **Hengyi Cai**, Hongshen Chen, Yonghao Song, Cheng Zhang, Xiaofang Zhao, Dawei Yin.  
 *To appear in Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (**ACL 2020**)*  
-
 
 ---
 
