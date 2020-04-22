@@ -19,7 +19,6 @@ author_profile: true
 **Hengyi Cai**, Hongshen Chen, Yonghao Song, Xiaofang Zhao, Dawei Yin.  
 *To appear in Proceedings of the International Joint Conference on Artificial Intelligence (**IJCAI 2020**)*   -->
 
-
 ---
 
 <span style="color:red;">[NEW] </span>[Data Manipulation: Towards Effective Instance Learning for Neural Dialogue Generation via Learning to Augment and Reweight](https://arxiv.org/abs/2004.02594)  

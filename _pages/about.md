@@ -27,5 +27,6 @@ PC Member: ACL (2020), EMNLP (2020)
 ## Selected Awards and Honors
 - AAAI-20 Scholarship Award
 - LvDe Investing Scholarship for Ph.D. Student, 2019
+- The First Prize of "China Software Cup" College Student Software Design Competition (as team leader), 2015
 - Honorable Mention, Mathematical Contest In Modeling, 2015
-- National Scholarship for Graduate Student (**top 2% students**), Ministry of Education of P.R.China, 2014
+- National Scholarship for Graduate Student (**top 2% students**), Ministry of Education of P.R.China, 2014 
