@@ -14,6 +14,7 @@ Email: caihengyi AT ict.ac.cn
 
 ## News
 
+- 04/2020 &nbsp;&nbsp; Hengyi was invited to serve as Program Committee of Machine Learning for NLP at NLPCC 2020.
 - 04/2020 &nbsp;&nbsp; 1 paper accepted to IJCAI 2020.
 - 04/2020 &nbsp;&nbsp; 1 paper accepted to ACL 2020.
 - 03/2020 &nbsp;&nbsp; Hengyi was invited to serve as Program Committee at EMNLP 2020.  
