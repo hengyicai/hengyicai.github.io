@@ -23,7 +23,7 @@ Email: caihengyi AT ict.ac.cn
 - 08/2019 &nbsp;&nbsp; 1 paper accepted to EMNLP 2019.  
 
 ## Professional Services
-PC Member: ACL (2020), EMNLP (2020)
+PC Member: ACL (2020), EMNLP (2020), NLPCC (2020)
 
 ## Selected Awards and Honors
 - AAAI-20 Scholarship Award
