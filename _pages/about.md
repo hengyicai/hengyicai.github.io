@@ -13,7 +13,6 @@ My name is Hengyi Cai (蔡恒毅), a Ph.D. student at [Institute of Computing Te
 ### Contact information
 
 Email: caihengyi AT ict.ac.cn 
-
 WeChat: caihengyi016172
 
 ## News
@@ -31,7 +30,7 @@ PC Member: ACL (2020), EMNLP (2020), NLPCC (2020)
 
 ## Selected Awards and Honors
 - AAAI-20 Scholarship Award
-- LvDe Investing Scholarship for Ph.D. Student (one of the top scholarships in ICT, CAS), 2019
+- LvDe Scholarship for Ph.D. Student (one of the top scholarships in ICT, CAS), 2019
 - First-class Scholarship of ICT, CAS, 2018.
 - The First Prize of "China Software Cup" College Student Software Design Competition (as team leader), 2015
 - Honorable Mention, Mathematical Contest In Modeling, 2015
