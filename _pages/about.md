@@ -12,7 +12,7 @@ My name is Hengyi Cai (蔡恒毅), a Ph.D. student at [Institute of Computing Te
 
 ### Contact information
 
-Email: caihengyi AT ict.ac.cn 
+Email: caihengyi AT ict.ac.cn     
 WeChat: caihengyi016172
 
 ## News
