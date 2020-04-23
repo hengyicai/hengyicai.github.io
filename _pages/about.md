@@ -10,9 +10,10 @@ redirect_from:
 
 My name is Hengyi Cai (蔡恒毅), a Ph.D. student at [Institute of Computing Technology](http://www.ict.ac.cn), [Chinese Academy of Sciences](https://www.ucas.ac.cn). Currently, I am focusing on the research of natural language processing, especially dialogue systems.
 
-#### Contact information
+### Contact information
 
-Email: caihengyi AT ict.ac.cn
+Email: caihengyi AT ict.ac.cn 
+
 WeChat: caihengyi016172
 
 ## News
