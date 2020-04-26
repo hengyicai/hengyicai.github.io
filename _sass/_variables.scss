@@ -13,13 +13,13 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : "Noto Sans", Georgia, Times, serif;
-$sans-serif                 : -apple-system, "Noto Sans", ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$serif                      : 'Open Sans', "Noto Sans", Georgia, Times, serif;
+$sans-serif                 : -apple-system, 'Open Sans', "Noto Sans", ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : monospace, Monaco;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
-$helvetica                  : "Noto Sans", Helvetica, "Helvetica Neue", Arial, sans-serif;
+$helvetica                  : 'Open Sans', "Noto Sans", Helvetica, "Helvetica Neue", Arial, sans-serif;
 
 /* serif typefaces */
 $georgia                    : Georgia, serif;
