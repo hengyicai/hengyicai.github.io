@@ -17,13 +17,21 @@ layout: compress
     {% include masthead.html %}
 
     {{ content }}
-
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
+    
+  <div class="page__footer" style="display: flex;">
+    <div style="flex: 92%;">
+      <div>
+        <footer>
+          {% include footer/custom.html %}
+          {% include footer.html %}
+        </footer>
+      </div>
     </div>
+
+    <div style="flex: 8%;">
+      <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d={{ site.view_map_d }}"></script>
+    </div>
+  </div>
 
     {% include scripts.html %}
 
