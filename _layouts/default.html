@@ -18,15 +18,15 @@ layout: compress
 
     {{ content }}
     
-  <div class="page__footer" style="display: flex; flex-wrap: wrap; justify-content: space-around; ">
-    <div style="flex: 88%;">
+  <div class="page__footer" style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items:flex-start">
+    <div style="flex: 60%;">
         <footer>
           {% include footer/custom.html %}
           {% include footer.html %}
         </footer>
     </div>
 
-    <div style="flex: 12%; overflow: hidden;">
+    <div style="flex: 40%; overflow: hidden;">
       <div style="padding-right: 5vw; padding-top: 2vw;">
         <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d={{site.view_map_d}}"></script>
       </div>
