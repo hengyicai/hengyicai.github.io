@@ -14,7 +14,8 @@ $indent-var                 : 1.3em;
 
 /* system typefaces */
 $serif                      : 'Open Sans', "Noto Sans", Georgia, Times, serif;
-$sans-serif                 : -apple-system, 'Open Sans', "Noto Sans", ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+/* -apple-system,  */
+$sans-serif                 : 'Open Sans', "Noto Sans", ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : monospace, Monaco;
 
 /* sans serif typefaces */
