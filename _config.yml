@@ -191,6 +191,11 @@ collections:
 
 # Defaults
 defaults:
+  # all
+  - scope:
+      path: ""
+    values:
+      view_map_d: sM-72pTZgtaofzWM3e6UFqQWGVgRujWQqDomBcg7-Cw
   # _posts
   - scope:
       path: ""
