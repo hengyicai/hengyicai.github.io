@@ -19,7 +19,7 @@ layout: compress
     {{ content }}
     
   <div class="page__footer" style="display: flex;">
-    <div style="flex: 92%;">
+    <div style="flex: 80%;">
       <div>
         <footer>
           {% include footer/custom.html %}
@@ -28,8 +28,10 @@ layout: compress
       </div>
     </div>
 
-    <div style="flex: 8%;">
-      <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d={{ site.view_map_d }}"></script>
+    <div style="flex: 20%;">
+      <footer>
+        <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d={{ site.view_map_d }}"></script>
+      </footer>
     </div>
   </div>
 
