@@ -1,7 +1,7 @@
 {% include base_path %}
 
-<div id="wrapper">
-  <div>
+
+  <div style="flex: 1;">
     <div class="page__footer-follow">
       <ul class="social-icons">
         {% if site.data.ui-text[site.locale].follow_label %}
@@ -25,11 +25,11 @@
     <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
     </div>
   </div>
-  <div></div>
-  <div style="width: 121px; height: 132.075px; bottom: 0em; margin-top: 2em;">
+
+  <div style="width: 121px; height: 132.075px; bottom: 0em; margin-top: 2em; flex: 1;">
     <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d={{ site.view_map_d }}"></script>
   </div>
-</div>
+
 
 
 <style>
