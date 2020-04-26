@@ -1,7 +1,7 @@
 {% include base_path %}
 
-
-  <div>
+<div style="display: flex;">
+  <div style="flex: 80%;">
     <div class="page__footer-follow">
       <ul class="social-icons">
         {% if site.data.ui-text[site.locale].follow_label %}
@@ -26,10 +26,10 @@
     </div>
   </div>
 
-  <div style="width: 121px; height: 132.075px; float: right;">
+  <div style="width: 121px; height: 132.075px; flex: 20%;">
     <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d={{ site.view_map_d }}"></script>
   </div>
-
+</div>
 
 
 <style>
