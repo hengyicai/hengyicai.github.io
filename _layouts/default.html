@@ -13,34 +13,26 @@ layout: compress
 
   <body>
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+  {% include browser-upgrade.html %}
+  {% include masthead.html %}
 
-    {{ content }}
-    
-  <div class="page__footer" style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items:flex-start">
-    <div style="flex: 2%; min-width:2vw;">
-    </div>
+  {{ content }}
 
-    <div style="flex: 66%;">
+  <div style="display: flex; flex-wrap: wrap-reverse; align-items:center">
+    <div class="page__footer"  style="flex: 100%;">
         <footer>
           {% include footer/custom.html %}
           {% include footer.html %}
         </footer>
     </div>
-
-    <div style="flex: 12%; overflow: hidden;">
-      <div style="padding-right: 5vw; padding-top: 2vw; max-width: 18vw;">
-        <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d={{site.view_map_d}}"></script>
+    <div style="flex: 8em; overflow: hidden; max-width: 8em;">
+      <div style="margin-bottom: 1em; margin-left: 3em;">
+        <script async defer type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d={{site.view_map_d}}"></script>
       </div>
     </div>
-    
-    <div style="flex: 18%; min-width:12vw;">
-    </div>
-   
-  </div>
-
-    {% include scripts.html %}
+  </div> 
+  {% include scripts.html %}
 
   </body>
+
 </html>
