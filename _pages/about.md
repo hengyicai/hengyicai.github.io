@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Hengyi Cai"
+excerpt: "Hengyi Cai"
 author_profile: true
 redirect_from: 
   - /about/
