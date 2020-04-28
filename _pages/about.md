@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Hengyi Cai (蔡恒毅), a Ph.D. student at [Institute of Computing Technology](http://www.ict.ac.cn){:target="_blank"}, [Chinese Academy of Sciences](https://www.ucas.ac.cn){:target="_blank"}. Currently, I am focusing on the research of natural language processing, especially dialogue systems.
+Hengyi Cai (蔡恒毅) is now a Ph.D. student at [Institute of Computing Technology](http://www.ict.ac.cn){:target="_blank"}, [Chinese Academy of Sciences](https://www.ucas.ac.cn){:target="_blank"}.
+He has a broad research interest related to natural languages and machine learning.
+Currently, He is focusing on the research of natural language processing, especially dialogue systems.
 
 ### Contact information
 
