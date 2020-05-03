@@ -27,7 +27,7 @@ WeChat: caihengyi016172
 - 11/2019 &nbsp;&nbsp; One paper accepted to **AAAI 2020** (accept rate: 20.6%).  
 - 08/2019 &nbsp;&nbsp; One paper accepted to **EMNLP 2019** (accept rate: 25.6%).  
 
-## Professional Services
+## Academic Services
 PC Member: ACL (2020), EMNLP (2020), NLPCC (2020)
 
 ## Selected Awards and Honors
