@@ -14,10 +14,11 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+---
 
-<!-- <span style="color:red;">[NEW] </span>Exemplar Guided Neural Dialogue Generation  
-**Hengyi Cai**, Hongshen Chen, Yonghao Song, Xiaofang Zhao, Dawei Yin.  
-*To appear in Proceedings of the International Joint Conference on Artificial Intelligence (**IJCAI 2020**)*   -->
+<span style="color:red;">[NEW] </span>**Exemplar Guided Neural Dialogue Generation**  
+**Hengyi Cai**, [Hongshen Chen](https://www.chenhongshen.com/){:target="_blank"}, Yonghao Song, Xiaofang Zhao, [Dawei Yin](http://www.yindawei.com/){:target="_blank"}.  
+*To appear in Proceedings of the International Joint Conference on Artificial Intelligence (**IJCAI 2020**)*  
 
 ---
 
