@@ -31,11 +31,11 @@ author_profile: true
 [Learning from Easy to Complex: Adaptive Multi-curricula Learning for Neural Dialogue Generation](https://arxiv.org/abs/2003.00639)  
 **Hengyi Cai**, [Hongshen Chen](https://www.chenhongshen.com/){:target="_blank"}, Cheng Zhang, Yonghao Song, Xiaofang Zhao, Yangxi Li, Dongsheng Duan, [Dawei Yin](http://www.yindawei.com/){:target="_blank"}.  
 *Proceedings of the 34th AAAI Conference on Artificial Intelligence (**AAAI 2020**)*  
-[PDF](https://arxiv.org/pdf/2003.00639.pdf)&nbsp;&nbsp;  [Code](https://github.com/hengyicai/Adaptive_Multi-curricula_Learning_for_Dialog)&nbsp;&nbsp;  [Poster](https://www.caihengyi.com/files/AAAI20.pdf)
+[PDF](https://arxiv.org/pdf/2003.00639.pdf)&nbsp;&nbsp;  [Code](https://github.com/hengyicai/Adaptive_Multi-curricula_Learning_for_Dialog)&nbsp;&nbsp;  [Poster](https://www.caihengyi.com/files/AAAI20.pdf){:target="_blank"}
 
 ---
 
 [Adaptive Parameterization for Neural Dialogue Generation](https://www.aclweb.org/anthology/D19-1188/)  
 **Hengyi Cai**, [Hongshen Chen](https://www.chenhongshen.com/){:target="_blank"}, Cheng Zhang, Yonghao Song, Xiaofang Zhao, [Dawei Yin](http://www.yindawei.com/){:target="_blank"}.  
 *Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2019**)*  
-[PDF](https://www.aclweb.org/anthology/D19-1188.pdf)&nbsp;&nbsp;  [Code](https://github.com/hengyicai/AdaND)&nbsp;&nbsp;  [Poster](https://www.caihengyi.com/files/EMNLP19.pdf)
+[PDF](https://www.aclweb.org/anthology/D19-1188.pdf)&nbsp;&nbsp;  [Code](https://github.com/hengyicai/AdaND)&nbsp;&nbsp;  [Poster](https://www.caihengyi.com/files/EMNLP19.pdf){:target="_blank"}
