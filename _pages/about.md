@@ -21,7 +21,7 @@ WeChat: caihengyi016172
 
 - 04/2020 &nbsp;&nbsp; Hengyi was invited to serve as Program Committee of Machine Learning for NLP at NLPCC 2020.
 - 04/2020 &nbsp;&nbsp; One paper accepted to **IJCAI 2020** (Full paper, Accept rate: 12.6%).
-- 04/2020 &nbsp;&nbsp; One paper accepted to **ACL 2020** (Full paper, Accept rate: 25.2%).
+- 04/2020 &nbsp;&nbsp; One paper accepted to **ACL 2020** (Full paper, Accept rate: 25.4%).
 - 03/2020 &nbsp;&nbsp; Hengyi was invited to serve as Program Committee at EMNLP 2020.  
 - 12/2019 &nbsp;&nbsp; Hengyi was invited to serve as Program Committee at ACL 2020.  
 - 11/2019 &nbsp;&nbsp; One paper accepted to **AAAI 2020** (Full paper, Accept rate: 20.6%).  
