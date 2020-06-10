@@ -31,6 +31,7 @@ WeChat: caihengyi016172
 PC Member: ACL (2020), EMNLP (2020), NLPCC (2020)
 
 ## Selected Awards and Honors
+- Pacemaker to Merit Student of ICT, CAS, 2020.
 - AAAI-20 Scholarship Award
 - LvDe Scholarship for Ph.D. Student (one of the top scholarships in ICT, CAS), 2019
 - First-class Scholarship of ICT, CAS, 2018.
