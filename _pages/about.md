@@ -20,13 +20,13 @@ WeChat: caihengyi016172
 ## News
 
 - 06/2020 &nbsp;&nbsp; One paper accepted for presentation at the SIGIR 2020 workshop on Applied Interactive Information Systems.
-- 04/2020 &nbsp;&nbsp; Hengyi was invited to serve as Program Committee of Machine Learning for NLP at NLPCC 2020.
-- 04/2020 &nbsp;&nbsp; One paper accepted to **IJCAI 2020** (Full paper, Accept rate: 12.6%).
-- 04/2020 &nbsp;&nbsp; One paper accepted to **ACL 2020** (Full paper, Accept rate: 22.7%).
+- 04/2020 &nbsp;&nbsp; Hengyi was invited to serve as Program Committee at NLPCC 2020.
+- 04/2020 &nbsp;&nbsp; One paper accepted to IJCAI 2020 (Full paper, Accept rate: 12.6%).
+- 04/2020 &nbsp;&nbsp; One paper accepted to ACL 2020 (Full paper, Accept rate: 22.7%).
 - 03/2020 &nbsp;&nbsp; Hengyi was invited to serve as Program Committee at EMNLP 2020.  
 - 12/2019 &nbsp;&nbsp; Hengyi was invited to serve as Program Committee at ACL 2020.  
-- 11/2019 &nbsp;&nbsp; One paper accepted to **AAAI 2020** (Full paper, Accept rate: 20.6%).  
-- 08/2019 &nbsp;&nbsp; One paper accepted to **EMNLP 2019** (Full paper, Accept rate: 25.6%).  
+- 11/2019 &nbsp;&nbsp; One paper accepted to AAAI 2020 (Full paper, Accept rate: 20.6%).  
+- 08/2019 &nbsp;&nbsp; One paper accepted to EMNLP 2019 (Full paper, Accept rate: 25.6%).  
 
 ## Academic Services
 PC Member: ACL (2020), EMNLP (2020), NLPCC (2020)
