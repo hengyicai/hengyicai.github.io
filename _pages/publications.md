@@ -23,10 +23,10 @@ To appear in *Proceedings of the 29th International Joint Conference on Artifici
 
 ---
 
-<span style="color:red;">[NEW] </span>[Data Manipulation: Towards Effective Instance Learning for Neural Dialogue Generation via Learning to Augment and Reweight](https://arxiv.org/abs/2004.02594){:target="_blank"}  
+<span style="color:red;">[NEW] </span>[Data Manipulation: Towards Effective Instance Learning for Neural Dialogue Generation via Learning to Augment and Reweight](https://www.aclweb.org/anthology/2020.acl-main.564/){:target="_blank"}  
 **Hengyi Cai**, [Hongshen Chen](https://www.chenhongshen.com/){:target="_blank"}, Yonghao Song, Cheng Zhang, Xiaofang Zhao, [Dawei Yin](http://www.yindawei.com/){:target="_blank"}.  
 To appear in *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics* (**ACL 2020**) (**CCF Rank A**)  
-[PDF](https://arxiv.org/pdf/2004.02594.pdf){:target="_blank"}&nbsp;&nbsp;  [Bib](https://www.caihengyi.com/files/Hengyi_ACL20.txt){:target="_blank"}  
+[PDF](https://www.aclweb.org/anthology/2020.acl-main.564.pdf){:target="_blank"}&nbsp;&nbsp;  [Bib](https://www.caihengyi.com/files/Hengyi_ACL20.txt){:target="_blank"}  
 
 ---
 
