@@ -17,7 +17,7 @@ Curriculum vitae is available upon request.
 ### Contact information
 
 Email: caihengyi AT ict.ac.cn  
-WeChat: caihengyi016172
+WeChat: hengyi-cai
 
 ## News
 
