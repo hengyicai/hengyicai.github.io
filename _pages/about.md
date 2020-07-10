@@ -12,10 +12,12 @@ Hengyi Cai (蔡恒毅) is now a Ph.D. student at [Institute of Computing Technol
 He has a broad research interest related to natural languages and machine learning.
 Currently, He is focusing on the research of natural language processing, especially dialogue systems.
 
+Curriculum vitae is available upon request.
+
 ### Contact information
 
 Email: caihengyi AT ict.ac.cn  
-WeChat: caihengyi016172
+WeChat: hengyi-cai
 
 ## News
 
@@ -42,4 +44,5 @@ PC Member: ACL (2020), EMNLP (2020), NLPCC (2020)
 
 <!-- ## Useful Links
 - [Research tips](http://www.ifs.tuwien.ac.at/~silvia/research-tips/){:target="_blank"} by Sylvia Miksch.
+<<<<<<< HEAD
 - [You and your research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html){:target="_blank"}. -->
