@@ -40,6 +40,6 @@ PC Member: ACL (2020), EMNLP (2020), NLPCC (2020)
 - Second Prize Winner of National Mathematical Contest In Modeling, 2015
 - National Scholarship for Graduate Student (**top 2% students**), Ministry of Education of P.R.China, 2014  
 
-## Useful Links
+<!-- ## Useful Links
 - [Research tips](http://www.ifs.tuwien.ac.at/~silvia/research-tips/){:target="_blank"} by Sylvia Miksch.
-- [You and your research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html){:target="_blank"}.
+- [You and your research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html){:target="_blank"}. -->
