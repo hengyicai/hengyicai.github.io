@@ -17,7 +17,7 @@ author_profile: true
 ---
 <!-- <span style="color:red;">[NEW] </span> -->
 
-[Exemplar Guided Neural Dialogue Generation](https://www.ijcai.org/Proceedings/2020/498){:target="_blank"} 
+[Exemplar Guided Neural Dialogue Generation](https://www.ijcai.org/Proceedings/2020/498){:target="_blank"}   
 **Hengyi Cai**, [Hongshen Chen](https://www.chenhongshen.com/){:target="_blank"}, Yonghao Song, Xiaofang Zhao, [Dawei Yin](http://www.yindawei.com/){:target="_blank"}.  
 *Proceedings of the 29th International Joint Conference on Artificial Intelligence* (**IJCAI 2020**) (**CCF Rank A**)  
 [PDF](https://www.ijcai.org/Proceedings/2020/0498.pdf){:target="_blank"}&nbsp;&nbsp;  [Bib](https://www.caihengyi.com/files/Hengyi_IJCAI20.txt){:target="_blank"}  
