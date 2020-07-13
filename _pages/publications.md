@@ -15,17 +15,18 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 ---
+<!-- <span style="color:red;">[NEW] </span> -->
 
-<span style="color:red;">[NEW] </span>**Exemplar Guided Neural Dialogue Generation**  
+[Exemplar Guided Neural Dialogue Generation](https://www.ijcai.org/Proceedings/2020/498){:target="_blank"} 
 **Hengyi Cai**, [Hongshen Chen](https://www.chenhongshen.com/){:target="_blank"}, Yonghao Song, Xiaofang Zhao, [Dawei Yin](http://www.yindawei.com/){:target="_blank"}.  
-To appear in *Proceedings of the 29th International Joint Conference on Artificial Intelligence* (**IJCAI 2020**) (**CCF Rank A**)  
-[Bib](https://www.caihengyi.com/files/Hengyi_IJCAI20.txt){:target="_blank"}  
+*Proceedings of the 29th International Joint Conference on Artificial Intelligence* (**IJCAI 2020**) (**CCF Rank A**)  
+[PDF](https://www.ijcai.org/Proceedings/2020/0498.pdf){:target="_blank"}&nbsp;&nbsp;  [Bib](https://www.caihengyi.com/files/Hengyi_IJCAI20.txt){:target="_blank"}  
 
 ---
 
-<span style="color:red;">[NEW] </span>[Data Manipulation: Towards Effective Instance Learning for Neural Dialogue Generation via Learning to Augment and Reweight](https://www.aclweb.org/anthology/2020.acl-main.564/){:target="_blank"}  
+[Data Manipulation: Towards Effective Instance Learning for Neural Dialogue Generation via Learning to Augment and Reweight](https://www.aclweb.org/anthology/2020.acl-main.564/){:target="_blank"}  
 **Hengyi Cai**, [Hongshen Chen](https://www.chenhongshen.com/){:target="_blank"}, Yonghao Song, Cheng Zhang, Xiaofang Zhao, [Dawei Yin](http://www.yindawei.com/){:target="_blank"}.  
-To appear in *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics* (**ACL 2020**) (**CCF Rank A**)  
+*Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics* (**ACL 2020**) (**CCF Rank A**)  
 [PDF](https://www.aclweb.org/anthology/2020.acl-main.564.pdf){:target="_blank"}&nbsp;&nbsp;  [Bib](https://www.caihengyi.com/files/Hengyi_ACL20.txt){:target="_blank"}  
 
 ---
