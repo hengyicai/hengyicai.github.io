@@ -21,6 +21,7 @@ Email: caihengyi AT ict.ac.cn
 
 ## News
 
+- 08/2020 &nbsp;&nbsp; Hengyi was invited to the Program Committee of AAAI 2021 and IJCAI 2021.
 - 06/2020 &nbsp;&nbsp; One paper accepted for presentation at the SIGIR 2020 workshop on Applied Interactive Information Systems.
 - 04/2020 &nbsp;&nbsp; Hengyi was invited to serve as Program Committee at NLPCC 2020.
 - 04/2020 &nbsp;&nbsp; One paper accepted to IJCAI 2020 (Full paper, Accept rate: 12.6%).
@@ -31,9 +32,11 @@ Email: caihengyi AT ict.ac.cn
 - 08/2019 &nbsp;&nbsp; One paper accepted to EMNLP 2019 (Full paper, Accept rate: 25.6%).  
 
 ## Academic Services
-PC Member: ACL (2020), EMNLP (2020), NLPCC (2020)
+
+PC Member: IJCAI (2021), AAAI (2021), ACL (2020), EMNLP (2020), NLPCC (2020)
 
 ## Selected Awards and Honors
+
 - Pacemaker to Merit Student of ICT, CAS, 2020.
 - AAAI-20 Scholarship Award
 - LvDe Scholarship for Ph.D. Student (one of the top scholarships in ICT, CAS), 2019
