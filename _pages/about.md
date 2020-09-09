@@ -16,7 +16,7 @@ Curriculum vitae is available upon request.
 
 ### Contact information
 
-Email: caihengyi AT ict.ac.cn  
+Email: caihengyi AT ict DOT ac DOT cn  
 <!-- WeChat: hengyi-cai -->
 
 ## News
@@ -24,8 +24,7 @@ Email: caihengyi AT ict.ac.cn
 - 08/2020 &nbsp;&nbsp; Hengyi was invited to the Program Committee of EACL 2021.  
 - 08/2020 &nbsp;&nbsp; Hengyi was invited to the Program Committee of AAAI 2021.  
 - 08/2020 &nbsp;&nbsp; Hengyi was invited to the Program Committee of IJCAI 2021.  
-- 06/2020 &nbsp;&nbsp; One paper accepted for presentation at the SIGIR 2020 workshop on Applied Interactive Information Systems.
-- 04/2020 &nbsp;&nbsp; Hengyi was invited to serve as Program Committee at NLPCC 2020.
+- 06/2020 &nbsp;&nbsp; One paper accepted for presentation at the SIGIR 2020 workshop on Applied Interactive Information Systems.  
 - 04/2020 &nbsp;&nbsp; One paper accepted to IJCAI 2020 (Full paper, Accept rate: 12.6%).
 - 04/2020 &nbsp;&nbsp; One paper accepted to ACL 2020 (Full paper, Accept rate: 22.7%).
 - 03/2020 &nbsp;&nbsp; Hengyi was invited to serve as Program Committee at EMNLP 2020.  
@@ -35,7 +34,7 @@ Email: caihengyi AT ict.ac.cn
 
 ## Academic Services
 
-PC Member: IJCAI (2021), AAAI (2021), EACL (2021), ACL (2020), EMNLP (2020), NLPCC (2020)
+PC Member: IJCAI (2021), AAAI (2021), EACL (2021), ACL (2020), EMNLP (2020)
 
 ## Selected Awards and Honors
 
