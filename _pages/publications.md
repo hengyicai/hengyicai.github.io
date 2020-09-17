@@ -20,7 +20,7 @@ author_profile: true
 Group-wise Contrastive Learning for Neural Dialogue Generation  
 **Hengyi Cai**, [Hongshen Chen](https://www.chenhongshen.com/){:target="_blank"}, Yonghao Song, Zhuoye Ding, Yongjun Bao, Weipeng Yan, Xiaofang Zhao.  
 To appear in *Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing* (**EMNLP 2020**) (**CCF Rank B**)  
-[PDF](https://www.caihengyi.com/files/GCL4Dialog.pdf){:target="_blank"}  
+[PDF](https://www.caihengyi.com/files/GCL4Dialog.pdf){:target="_blank"}  &nbsp;&nbsp;  [arXiv](https://arxiv.org/abs/2009.07543){:target="_blank"}  
 
 ---
 
