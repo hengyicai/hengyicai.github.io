@@ -10,7 +10,9 @@ redirect_from:
 
 Hengyi Cai (蔡恒毅) is now a Ph.D. student at [Institute of Computing Technology](http://www.ict.ac.cn){:target="_blank"}, [Chinese Academy of Sciences](https://www.ucas.ac.cn){:target="_blank"}.
 He has a broad research interest related to natural languages and machine learning.
-Currently, He is focusing on the research of natural language processing, especially dialogue systems.
+Currently, He is focusing on the research of natural language processing, especially dialogue systems.  
+
+**Advertisement: I am expected to graduate in Jun. 2021, and I'm now actively looking for a NLP-related position in either academia or industry.**
 
 Curriculum vitae is available upon request.
 
