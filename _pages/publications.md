@@ -26,7 +26,7 @@ To appear in *Findings of EMNLP 2020*
 
 [Exemplar Guided Neural Dialogue Generation](https://www.ijcai.org/Proceedings/2020/498){:target="_blank"}   
 **Hengyi Cai**, [Hongshen Chen](https://www.chenhongshen.com/){:target="_blank"}, Yonghao Song, Xiaofang Zhao, [Dawei Yin](http://www.yindawei.com/){:target="_blank"}.  
-*Proceedings of the 29th International Joint Conference on Artificial Intelligence* (**IJCAI 2020**) 
+*Proceedings of the 29th International Joint Conference on Artificial Intelligence* (**IJCAI 2020**)   
 [PDF](https://www.ijcai.org/Proceedings/2020/0498.pdf){:target="_blank"}&nbsp;&nbsp;  [Bib](https://www.caihengyi.com/files/Hengyi_IJCAI20.txt){:target="_blank"}  
 
 ---
