@@ -24,7 +24,7 @@ Email: caihengyi AT ict DOT ac DOT cn
 
 ## News
 
-- 09/2020 &nbsp;&nbsp; One paper accepted to EMNLP 2020 (Long paper).  
+- 09/2020 &nbsp;&nbsp; One paper accepted to Findings of EMNLP 2020 (Long paper).  
 - 08/2020 &nbsp;&nbsp; Hengyi was invited to the Program Committee of EACL 2021.  
 - 08/2020 &nbsp;&nbsp; Hengyi was invited to the Program Committee of AAAI 2021.  
 - 08/2020 &nbsp;&nbsp; Hengyi was invited to the Program Committee of IJCAI 2021.  
