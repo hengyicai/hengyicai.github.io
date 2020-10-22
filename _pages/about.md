@@ -24,6 +24,7 @@ Email: caihengyi AT ict DOT ac DOT cn
 
 ## News
 
+- 10/2020 &nbsp;&nbsp; Hengyi was invited to the Program Committee of NAACL 2021.  
 - 09/2020 &nbsp;&nbsp; One paper accepted to Findings of EMNLP 2020 (Long paper).  
 - 08/2020 &nbsp;&nbsp; Hengyi was invited to the Program Committee of EACL 2021.  
 - 08/2020 &nbsp;&nbsp; Hengyi was invited to the Program Committee of AAAI 2021.  
@@ -38,7 +39,7 @@ Email: caihengyi AT ict DOT ac DOT cn
 
 ## Academic Services
 
-PC Member: IJCAI (2021), AAAI (2021), EACL (2021), ACL (2020), EMNLP (2020)
+PC Member: NAACL(2021), IJCAI (2021), AAAI (2021), EACL (2021), ACL (2020), EMNLP (2020)
 
 ## Selected Awards and Honors
 
