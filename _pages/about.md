@@ -43,6 +43,7 @@ PC Member: NAACL(2021), IJCAI (2021), AAAI (2021), EACL (2021), ACL (2020), EMNL
 
 ## Selected Awards and Honors
 
+- UCAS-BHPB Award, by University of Chinese Academy of Science (CAS) and BHPBilliton, 2020  
 - National Scholarship for Ph.D. Student (**top 1% students**), Ministry of Education of P.R.China, 2020  
 - Pacemaker to Merit Student of ICT, CAS, 2020.  
 - AAAI-20 Scholarship Award  
