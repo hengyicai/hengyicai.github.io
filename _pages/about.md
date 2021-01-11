@@ -13,7 +13,7 @@ He has a broad research interest related to natural languages and machine learni
 Currently, He is focusing on the research of natural language processing, especially dialogue systems.
 He is proud to have collaborated with [Dr. Hongshen Chen](https://www.chenhongshen.com/) from JD.com, and [Dr. Dawei Yin](http://www.yindawei.com/) from Baidu inc..
 
-**Advertisement: I am expected to graduate in Jun. 2021, and I'm now actively looking for a NLP-related position in either academia or industry.**
+<!-- **Advertisement: I am expected to graduate in Jun. 2021, and I'm now actively looking for a NLP-related position in either academia or industry.** -->
 
 Curriculum vitae is available upon request.
 
@@ -30,8 +30,8 @@ Email: caihengyi AT ict DOT ac DOT cn
 - 08/2020 &nbsp;&nbsp; Hengyi was invited to the Program Committee of AAAI 2021.  
 - 08/2020 &nbsp;&nbsp; Hengyi was invited to the Program Committee of IJCAI 2021.  
 - 06/2020 &nbsp;&nbsp; One paper accepted for presentation at the SIGIR 2020 workshop on Applied Interactive Information Systems.  
-- 04/2020 &nbsp;&nbsp; One paper accepted to IJCAI 2020 (Full paper, Accept rate: 12.6%).
-- 04/2020 &nbsp;&nbsp; One paper accepted to ACL 2020 (Full paper, Accept rate: 22.7%).
+- 04/2020 &nbsp;&nbsp; One paper accepted to IJCAI 2020 (Full paper, Accept rate: 12.6%).  
+- 04/2020 &nbsp;&nbsp; One paper accepted to ACL 2020 (Full paper, Accept rate: 22.7%).  
 - 03/2020 &nbsp;&nbsp; Hengyi was invited to serve as Program Committee at EMNLP 2020.  
 - 12/2019 &nbsp;&nbsp; Hengyi was invited to serve as Program Committee at ACL 2020.  
 - 11/2019 &nbsp;&nbsp; One paper accepted to AAAI 2020 (Full paper, Accept rate: 20.6%).  
@@ -39,7 +39,8 @@ Email: caihengyi AT ict DOT ac DOT cn
 
 ## Academic Services
 
-PC Member: NAACL(2021), IJCAI (2021), AAAI (2021), EACL (2021), ACL (2020), EMNLP (2020)
+PC: NAACL(2021), AAAI (2021), EACL (2021), ACL (2020), EMNLP (2020)  
+SPC: IJCAI (2021)  
 
 ## Selected Awards and Honors
 
