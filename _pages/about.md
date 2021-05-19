@@ -23,7 +23,7 @@ Email: caihengyi AT ict DOT ac DOT cn
 <!-- WeChat: hengyi-cai -->
 
 ## News
-
+- 05/2021 &nbsp;&nbsp; One paper accepted to KDD 2021.  
 - 10/2020 &nbsp;&nbsp; Hengyi was invited to the Program Committee of NAACL 2021.  
 - 09/2020 &nbsp;&nbsp; One paper accepted to Findings of EMNLP 2020 (Long paper).  
 - 08/2020 &nbsp;&nbsp; Hengyi was invited to the Program Committee of EACL 2021.  
