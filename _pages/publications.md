@@ -19,7 +19,7 @@ author_profile: true
 
 **Pre-trained Language Model based Ranking in Baidu Search**   
 Lixin Zou, Shengqiang Zhang, **Hengyi Cai**, Dehong Ma, Suqi Cheng, Shuaiqiang Wang, Daiting Shi, Zhicong Cheng, Dawei Yin.  
-To appear in *KDD 2021*  
+To appear in *SIGKDD 2021*  
 
 ---
 
