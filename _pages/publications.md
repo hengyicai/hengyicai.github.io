@@ -17,9 +17,15 @@ author_profile: true
 ---
 <!-- <span style="color:red;">[NEW] </span> -->
 
+**Pre-trained Language Model based Ranking in Baidu Search**   
+Lixin Zou, Shengqiang Zhang, **Hengyi Cai**, Dehong Ma, Suqi Cheng, Shuaiqiang Wang, Daiting Shi, Zhicong Cheng, Dawei Yin.  
+To appear in *KDD 2021*  
+
+---
+
 [Group-wise Contrastive Learning for Neural Dialogue Generation](https://arxiv.org/abs/2009.07543){:target="_blank"}   
 **Hengyi Cai**, [Hongshen Chen](https://www.chenhongshen.com/){:target="_blank"}, Yonghao Song, Zhuoye Ding, Yongjun Bao, Weipeng Yan, Xiaofang Zhao.  
-To appear in *Findings of EMNLP 2020*  
+*Findings of the Association for Computational Linguistics: EMNLP 2020*  
 [PDF](https://www.caihengyi.com/files/GCL4Dialog.pdf){:target="_blank"}&nbsp;&nbsp;  [Code](https://github.com/hengyicai/ContrastiveLearning4Dialogue){:target="_blank"}
 
 ---
