@@ -17,9 +17,10 @@ author_profile: true
 ---
 <!-- <span style="color:red;">[NEW] </span> -->
 
-**Pre-trained Language Model based Ranking in Baidu Search**   
+[Pre-trained Language Model based Ranking in Baidu Search](https://arxiv.org/abs/2105.11108){:target="_blank"}  
 Lixin Zou, Shengqiang Zhang, **Hengyi Cai**, Dehong Ma, Suqi Cheng, Shuaiqiang Wang, Daiting Shi, Zhicong Cheng, Dawei Yin.  
 To appear in *SIGKDD 2021*  
+[PDF](https://arxiv.org/pdf/2105.11108.pdf){:target="_blank"}  
 
 ---
 
