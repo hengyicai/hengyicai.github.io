@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hengyi Cai's Homepage"
 title_separator          : "-"
 name                     : &name "Hengyi Cai"
-description              : &description "Ph.D. student at Institute of Computing Technology, Chinese Academy of Sciences"
+description              : &description "'The noblest pleasure is the joy of understanding' — Leonardo da Vinci"
 url                      : https://hengyicai.github.io # http://www.caihengyi.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hengyicai.github.io"
@@ -83,12 +83,13 @@ analytics:
 author:
   name             : "Hengyi Cai"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. student at Institute of Computing Technology, C.A.S."
+  # bio              : "Ph.D. graduated from Institute of Computing Technology, C.A.S."
+  bio              : "'The noblest pleasure is the joy of understanding' — Leonardo da Vinci"
   location         : "Beijing, China"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Kz-r34UAAAAJ"
-  email            : "caihengyi@ict.ac.cn"
+  email            : "hengyi1995@gmail.com"
   researchgate     : #"https://www.researchgate.net/profile/Hengyi_Cai" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
