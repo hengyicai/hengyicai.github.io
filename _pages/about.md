@@ -10,7 +10,7 @@ redirect_from:
 
 Hengyi Cai (蔡恒毅) received his Ph.D. from [Institute of Computing Technology](http://www.ict.ac.cn){:target="_blank"}, [Chinese Academy of Sciences](https://www.ucas.ac.cn){:target="_blank"}.
 He has a broad research interest related to natural languages and machine learning.
-Currently, He is focusing on the research of natural language processing, especially dialogue systems.
+Currently, He is focusing on the research of natural language processing, especially Natural Language Generation.
 He is proud to have collaborated with [Dr. Hongshen Chen](https://www.chenhongshen.com/) from JD.com, and [Dr. Dawei Yin](http://www.yindawei.com/) from Baidu inc..
 
 <!-- **Advertisement: I am expected to graduate in Jun. 2021, and I'm now actively looking for a NLP-related position in either academia or industry.** -->
@@ -39,12 +39,12 @@ Email: hengyi1995 AT gmail DOT com
 
 ## Academic Services
 
-PC: NAACL(2021), AAAI (2021), EACL (2021), ACL (2020, 2021), EMNLP (2020, 2021)  
+PC: NAACL(2021), AAAI (2021, 2022), ACL (2020, 2021), EMNLP (2020, 2021), EACL (2021)
 SPC: IJCAI (2021)  
 
 ## Selected Awards and Honors
 
-- Outstanding Graduates Award of Beijing City, 2021  
+- Outstanding Graduates Award of Beijing, 2021  
 - Outstanding Graduates Award of University of Chinese Academy of Science, 2021  
 - UCAS-BHPB Scholarship, by University of Chinese Academy of Science (CAS) and BHPBilliton, 2020  
 - National Scholarship for Ph.D. Student (**top 1% students**), Ministry of Education of P.R.China, 2020  
