@@ -17,7 +17,7 @@ author_profile: true
 ---
 <!-- <span style="color:red;">[NEW] </span> -->
 
-Fast Semantic Matching via Flexible Contextualized Interaction.  
+[Fast Semantic Matching via Flexible Contextualized Interaction]()  
 Wenwen Ye, Yiding Liu, Lixin Zou, **Hengyi Cai**, Suqi Cheng, Shuaiqiang Wang, Dawei Yin.  
 To appear in *WSDM 2022*  
 
