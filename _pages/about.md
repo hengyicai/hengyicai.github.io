@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hengyi Cai (蔡恒毅) received his Ph.D. from [Institute of Computing Technology](http://www.ict.ac.cn){:target="_blank"}, [Chinese Academy of Sciences](https://www.ucas.ac.cn){:target="_blank"}.
+Hengyi Cai (蔡恒毅) received his Ph.D. from [Institute of Computing Technology](http://www.ict.ac.cn){:target="_blank"}, [Chinese Academy of Sciences](https://www.ucas.ac.cn){:target="_blank"} (**Outstanding Graduate**).
 He has a broad research interest related to natural languages and machine learning.
-Currently, He is focusing on the research of natural language processing, especially Natural Language Generation.
-He is proud to have collaborated with [Dr. Hongshen Chen](https://www.chenhongshen.com/) from JD.com, and [Dr. Dawei Yin](http://www.yindawei.com/) from Baidu inc..
+Currently, He is focusing on the research of natural language processing, especially Natural Language Generation and Semantic Matching.  
+<!-- He is proud to have collaborated with [Dr. Hongshen Chen](https://www.chenhongshen.com/) from JD.com, and [Dr. Dawei Yin](http://www.yindawei.com/) from Baidu inc.. -->
 
 <!-- **Advertisement: I am expected to graduate in Jun. 2021, and I'm now actively looking for a NLP-related position in either academia or industry.** -->
 
-Curriculum vitae is available upon request.
+<!-- Curriculum vitae is available upon request. -->
 
 ### Contact information
 
