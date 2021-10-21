@@ -17,6 +17,12 @@ author_profile: true
 ---
 <!-- <span style="color:red;">[NEW] </span> -->
 
+Fast Semantic Matching via Flexible Contextualized Interaction.  
+Wenwen Ye, Yiding Liu, Lixin Zou, **Hengyi Cai**, Suqi Cheng, Shuaiqiang Wang, Dawei Yin.  
+To appear in *WSDM 2022*  
+
+---
+
 [Pre-trained Language Model based Ranking in Baidu Search](https://arxiv.org/abs/2105.11108){:target="_blank"}  
 Lixin Zou, Shengqiang Zhang, **Hengyi Cai**, Dehong Ma, Suqi Cheng, Shuaiqiang Wang, Daiting Shi, Zhicong Cheng, Dawei Yin.  
 *SIGKDD 2021*  
