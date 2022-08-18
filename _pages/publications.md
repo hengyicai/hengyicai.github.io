@@ -17,9 +17,15 @@ author_profile: true
 ---
 <!-- <span style="color:red;">[NEW] </span> -->
 
-[Fast Semantic Matching via Flexible Contextualized Interaction]()  
+[Approximated Doubly Robust Search Relevance Estimation](https://arxiv.org/abs/2208.07671){:target="_blank"}  
+Lixin Zou, Changying Hao, **Hengyi Cai**, Suqi Cheng, Shuaiqiang Wang, Wenwen Ye, Zhicong Cheng, Simu Gu, Dawei Yin.
+*CIKM 2022*  
+
+---
+
+[Fast Semantic Matching via Flexible Contextualized Interaction](https://dl.acm.org/doi/abs/10.1145/3488560.3498442){:target="_blank"}  
 Wenwen Ye, Yiding Liu, Lixin Zou, **Hengyi Cai**, Suqi Cheng, Shuaiqiang Wang, Dawei Yin.  
-In *WSDM 2022*  
+*WSDM 2022*  
 
 ---
 
