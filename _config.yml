@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hengyi Cai's Homepage"
-title_separator          : "-"
-name                     : &name "Hengyi Cai"
+title                    : "蔡恒毅个人主页"
+title_separator          : ""
+# name                     : &name ""
 description              : &description "'The noblest pleasure is the joy of understanding'"
 url                      : https://hengyicai.github.io # http://www.caihengyi.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
