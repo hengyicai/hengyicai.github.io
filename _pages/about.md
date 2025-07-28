@@ -27,7 +27,7 @@ Email: hengyi1995 AT gmail DOT com
 
 ## Academic Services
 
-**PC**: NAACL(2021), AAAI (2021-2022), ACL (2020-2022), EMNLP (2020-2022), EACL (2021), IJCAI (2022)  
+**PC**: ACL, EMNLP, KDD, NeurIPS, SIGIR, NAACL, AAAI, IJCAI  
 **SPC**: IJCAI (2021)  
 
 ## Selected Awards and Honors
