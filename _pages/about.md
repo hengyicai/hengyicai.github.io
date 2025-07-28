@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hengyi Cai (蔡恒毅) received his Ph.D. from [Institute of Computing Technology](http://www.ict.ac.cn){:target="_blank"}, [Chinese Academy of Sciences](https://www.ucas.ac.cn){:target="_blank"} (**Outstanding Graduate**).
+<!-- Hengyi Cai (蔡恒毅) received his Ph.D. from [Institute of Computing Technology](http://www.ict.ac.cn){:target="_blank"}, [Chinese Academy of Sciences](https://www.ucas.ac.cn){:target="_blank"} (**Outstanding Graduate**).
 He has a broad research interest related to natural languages and machine learning.
-Currently, He is focusing on the research of natural language processing, especially Natural Language Generation and Efficient&Effective Text Retrieval.  
+Currently, He is focusing on the research of natural language processing, especially Natural Language Generation and Efficient&Effective Text Retrieval. --> 
+
+I am a Research Scientist at Baidu Inc., where I develop the company’s in‑house LLM infrastructure and large‑scale query understanding systems that power Baidu Search. My research spans text generation, question answering, and retrieval‑augmented language models, with publications in ACL, EMNLP, KDD, NeurIPS, and SIGIR. I earned my Ph.D. from the Institute of Computing Technology, Chinese Academy of Sciences in 2021 (Outstanding Graduate). I serve on program committees for leading conferences including ACL, EMNLP, KDD, NeurIPS, and SIGIR.
+
 <!-- He is proud to have collaborated with [Dr. Hongshen Chen](https://www.chenhongshen.com/) from JD.com, and [Dr. Dawei Yin](http://www.yindawei.com/) from Baidu inc.. -->
 
 <!-- **Advertisement: I am expected to graduate in Jun. 2021, and I'm now actively looking for a NLP-related position in either academia or industry.** -->
@@ -21,21 +24,6 @@ Currently, He is focusing on the research of natural language processing, especi
 
 Email: hengyi1995 AT gmail DOT com  
 <!-- WeChat: hengyi-cai -->
-
-## News
-- 05/2021 &nbsp;&nbsp; One paper accepted to SIGKDD 2021.  
-- 10/2020 &nbsp;&nbsp; Hengyi was invited to the Program Committee of NAACL 2021.  
-- 09/2020 &nbsp;&nbsp; One paper accepted to Findings of EMNLP 2020 (Long paper).  
-- 08/2020 &nbsp;&nbsp; Hengyi was invited to the Program Committee of EACL 2021.  
-- 08/2020 &nbsp;&nbsp; Hengyi was invited to the Program Committee of AAAI 2021.  
-- 08/2020 &nbsp;&nbsp; Hengyi was invited to the Program Committee of IJCAI 2021.  
-- 06/2020 &nbsp;&nbsp; One paper accepted for presentation at the SIGIR 2020 workshop on Applied Interactive Information Systems.  
-- 04/2020 &nbsp;&nbsp; One paper accepted to IJCAI 2020 (Full paper, Accept rate: 12.6%).  
-- 04/2020 &nbsp;&nbsp; One paper accepted to ACL 2020 (Full paper, Accept rate: 22.7%).  
-- 03/2020 &nbsp;&nbsp; Hengyi was invited to serve as Program Committee at EMNLP 2020.  
-- 12/2019 &nbsp;&nbsp; Hengyi was invited to serve as Program Committee at ACL 2020.  
-- 11/2019 &nbsp;&nbsp; One paper accepted to AAAI 2020 (Full paper, Accept rate: 20.6%).  
-- 08/2019 &nbsp;&nbsp; One paper accepted to EMNLP 2019 (Full paper, Accept rate: 25.6%).  
 
 ## Academic Services
 
